@@ -1,7 +1,7 @@
-iti_live mmm
+iti_live
 ==============================
-
-project about iti
+probleme: the relationships between the skills and the jobs
+solution: build a model to understand the relation between the job and the skills
 
 Project Organization
 ------------
